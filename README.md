@@ -7,7 +7,7 @@ Here you can find our amazing webpage about CO2 emissions: https://s202961.wixsi
 
 The code is in the file called: Social22.ipynb https://github.com/cramosglez/SocialData22/blob/main/Social22.ipynb
 
-Please, run the code locally (if needed) as not all the visualizations from Bokeh and Plotly appear directly in GitHub.
+Please, open the ipynb in your Jupyter and run the code locally (if needed) as not all the visualizations from Bokeh and Plotly appear directly in GitHub.
 
 
 
